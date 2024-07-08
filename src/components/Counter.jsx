@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
+import styles from './Counter.module.css';
 
 class Counter extends Component {
   constructor(props) {
@@ -20,7 +21,7 @@ class Counter extends Component {
   };
   render() {
     return (
-      <div>
+      <div className={styles.mainContainer}>
         <p>Level:{this.state.count}</p>
         <button onClick={this.handleIncrement} type="button">
           up
