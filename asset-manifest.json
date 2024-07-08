@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test---react-class-component/static/css/main.7acaea2f.css",
+    "main.js": "/test---react-class-component/static/js/main.07d3183d.js",
+    "index.html": "/test---react-class-component/index.html",
+    "main.7acaea2f.css.map": "/test---react-class-component/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/test---react-class-component/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
